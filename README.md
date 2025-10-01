@@ -5,6 +5,8 @@ Adjust wavelength, waist, **M²** beam quality, lens/aperture, and noise (RIN, l
 See **beam propagation**, **divergence**, **Rayleigh range**, and **coherence length** update live.
 
 ---
+<img width="1814" height="815" alt="image" src="https://github.com/user-attachments/assets/4b3d8903-62bb-4b84-88c0-300624d9a13e" />
+
 
 ## 📖 What this simulation does
 This project models **Gaussian beam optics** interactively.  
